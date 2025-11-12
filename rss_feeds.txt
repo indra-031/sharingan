@@ -1,0 +1,35 @@
+# 🧪 Research Labs
+https://portswigger.net/research/rss
+https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss
+https://krebsonsecurity.com/feed/
+https://www.microsoft.com/security/blog/feed/
+https://www.talosintelligence.com/feed.xml
+
+# 🕵️ Bug Bounty & Ethical Hacking
+https://infosecwriteups.com/feed
+https://www.hackerone.com/blog/rss.xml
+https://blog.bugcrowd.com/rss.xml
+
+# 🎯 Security & Exploit Analysis
+https://www.thehackernews.com/feeds/posts/default
+https://www.rapid7.com/blog/rss.xml
+
+# ⚡ CTF / Pwn / Exploit Writeups
+https://blog.0x00sec.org/feed.xml
+https://labs.detectify.com/feed.xml
+
+# 🌐 Medium (Curated Bug Bounty / Security)
+https://medium.com/feed/tag/bug-bounty
+https://medium.com/feed/tag/ethical-hacking
+https://medium.com/feed/tag/pentesting
+https://medium.com/feed/tag/web-security
+https://medium.com/feed/tag/infosec
+https://medium.com/feed/tag/exploit
+https://medium.com/feed/tag/vulnerability
+https://medium.com/feed/tag/hacking
+
+# 🔥 Community (quality filtered)
+https://www.reddit.com/r/bugbounty/.rss
+https://www.reddit.com/r/Netsec/.rss
+https://www.reddit.com/r/infosec/.rss
+
