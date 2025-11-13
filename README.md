@@ -38,7 +38,7 @@ python3 sharingan.py
 ```
 Or schedule with cron (every 6 hours):
 ```
-0 */6 * * * /usr/bin/python3 /opt/sharingan/sharingan.py >> /opt/sharingan/sharingan.log 2>&1
+0 */6 * * * cd /opt/sharingan && /usr/bin/python3 sharingan.py >> /opt/sharingan/sharingan.log 2>&1
 ```
 ## Configuration
 -RSS_FEEDS_FILE — File containing RSS feed URLs
@@ -51,9 +51,9 @@ Or schedule with cron (every 6 hours):
 -TELEGRAM_THREAD_ID — Telegram thread ID (optional)
 
 ## Example Feeds
-https://portswigger.net/research/rss
-https://infosecwriteups.com/feed
-https://medium.com/feed/tag/bug-bounty
-https://www.hackerone.com/blog/rss.xml
+-https://portswigger.net/research/rss
+-https://infosecwriteups.com/feed
+-https://medium.com/feed/tag/bug-bounty
+-https://www.hackerone.com/blog/rss.xml
 
 Developed by Indra ⚡
